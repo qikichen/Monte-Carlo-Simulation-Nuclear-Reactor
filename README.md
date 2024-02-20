@@ -1,11 +1,23 @@
-# Monte-Carlo-Simulation-Nuclear-Reactor
+# Monte Carlo Simulation of a Fission Reactor
 
-IN COLLABORATION WITH ANDREAS HADJICHRISTOU
+## Overview
+The Monte Carlo Simulation of a Fission Reactor project, conducted on May 5, 2022, explores the criticality of a homogeneous fission reactor through Monte Carlo methods. By tracking the position and energy of individual neutrons and their interactions across multiple neutron generations, the experiment aims to analyze the reactor's critical behavior.
 
-Together with one partner I have worked on modelling a nuclear reactor and figuring out the optimal composition of fuel and moderator to find the a k-factor that would be suitable for a reactor.
+## Key Objectives
+- **Criticality Analysis**: Investigate the critical behavior of a homogeneous fission reactor.
+- **Monte Carlo Methods**: Utilize Monte Carlo simulation techniques to model neutron interactions and reactor behavior.
+- **Position and Energy Tracking**: Monitor the position and energy of each neutron throughout multiple generations to understand their impact on reactor criticality.
 
-The simulation uses Monte Carlo methods, probability theory and statistical methods. A written report was handed in to the supervisor as well as a presentation regarding the results.
+## Experiment Details
+- **Date**: May 5, 2022
+- **Methodology**: Monte Carlo simulation
+- **Focus**: Neutron position, energy, and interactions
+- **Objective**: Criticality analysis of a homogeneous fission reactor
 
-Grade received: 76%
+## Results
+The experiment aims to provide insights into the critical behavior of the fission reactor, including the effects of neutron position, energy, and interactions on reactor criticality. Detailed analysis and findings will be presented in the project report.
 
-For more information, feel free to read the paper that Andreas and I have written
+## Conclusion
+By leveraging Monte Carlo simulation techniques, the project seeks to enhance understanding of reactor criticality and inform future research and development in the field of nuclear engineering.
+
+
